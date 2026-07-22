@@ -4,7 +4,7 @@
 A simple Python program to create and display an IT helpdesk ticket.
 
 ## Tech Stack
-- Python
+Python
 
 ## How to Use
 1. Run `main.py`.
